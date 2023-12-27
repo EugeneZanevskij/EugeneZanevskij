@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugene Zanevskij</h1>
 <h3 align="center">A resourceful and motivated student pursuing a Bachelor of Information Resource Management looking forward to becoming Front-End developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://eugenezanevskij.github.io/portfolio-page/](https://eugenezanevskij.github.io/portfolio-page/)
+- 👨‍💻 All of my projects are available at [Portfolio Page](https://portfolio-eugenezanevskijs-projects.vercel.app/)
 
 - 📫 How to reach me **zanevskijzenia@gmail.com**
 
